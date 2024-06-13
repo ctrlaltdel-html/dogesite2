@@ -1,0 +1,57 @@
+ .btn {
+  background-color: #000000;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+}
+
+/* Increase font size for screens below 700px */
+@media (max-width: 700px) {
+  body {
+    zoom: 0%;
+  }
+}
+.btn:hover {
+  background-color: #ffffff;
+  color: black;
+  filter: drop-shadow(5px 5px 4px #5f5f5f);
+  transform: scale(1.08) perspective(0.5px)
+
+}
+
+    .btn:active {
+     transform: scale(0.97) perspective(0.5px) 
+    }
+    
+    .doge {
+      text-align: center;
+    }
+    
+.header {
+  
+  background-color: #2f2f2f;
+  padding: 2px;
+  margin: 0;
+    }
+    
+    
+    .links, .a {
+      text-align: center;
+      padding-bottom: 10px;
+      padding-left: 5px;
+      padding-right: 5px;
+      color: white;
+    }
+    
+
+    .header {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+
+
+}
