@@ -1,4 +1,4 @@
- .btn {
+  .btn {
   background-color: #000000;
   border: none;
   color: white;
@@ -19,9 +19,13 @@
   background-color: #ffffff;
   color: black;
   filter: drop-shadow(5px 5px 4px #5f5f5f);
+  margin: 5px;
+  
   transform: scale(1.08) perspective(0.5px)
+  
 
 }
+
 
     .btn:active {
      transform: scale(0.97) perspective(0.5px) 
