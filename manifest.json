@@ -1,0 +1,17 @@
+{
+    "lang": "en-us",
+    "name": "Doge",
+    "short_name": "dogesite",
+    "description": "Doge's website.",
+    "start_url": "/",
+    "background_color": "#222222",
+    "theme_color": "#222222",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": ".\favicon.ico",
+            "sizes": "512x512"
+        }
+    ]
+}
