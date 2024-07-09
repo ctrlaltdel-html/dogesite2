@@ -31,12 +31,11 @@
      transform: scale(0.97) perspective(0.5px) 
     }
     
-    .doge {
-      text-align: center;
-    }
+    
     
 .header {
   
+  box-shadow: 0px 2px 5px black;
   background-color: #2f2f2f;
   padding: 2px;
   margin: 0;
