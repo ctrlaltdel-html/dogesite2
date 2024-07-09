@@ -51,6 +51,10 @@
       text-decoration: none;
     }
     
+    #bframe {
+      opacity: 0%;
+    }
+
 
     .header {
   position: sticky;
